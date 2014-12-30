@@ -1,4 +1,5 @@
-﻿vokabel4<div>まで12</div>	セリお<div>12</div>	Tag1 Tag2
+﻿vocab00	009323	tag22
+vokabel4<div>まで12</div>	セリお<div>12</div>	Tag1 Tag2
 vocab2	009323	tag22
 vocab0	voc0bed	Tag0
 vokab2<div>這う</div>	はう<div>vokab2bedeutung</div>	Tag1
